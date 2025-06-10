@@ -1,7 +1,7 @@
 
 /*
-Time complexity of two pointers approach [Optimal] - O(N)
-Space complexity of two pointers approach [Optimal] - O(N)
+Time complexity  - O(N)
+Space complexity  - O(N)
 Did this code successfully run on Leetcode :  Yes
 Any problem you faced while coding this :  No
 Approach -
